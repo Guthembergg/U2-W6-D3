@@ -1,0 +1,19 @@
+nav button {
+  background-color: rgb(72, 141, 194) !important;
+  border: 2px solid rgb(54, 52, 154) !important;
+  margin: 2px !important;
+  color: rgb(255, 255, 255) !important;
+}
+nav img {
+  width: 100%;
+}
+nav #container {
+  width: 60px;
+}
+
+footer {
+  font-size: 25px !important;
+}
+footer button {
+  font-size: 25px !important;
+}/*# sourceMappingURL=style.css.map */
