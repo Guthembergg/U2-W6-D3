@@ -1,6 +1,6 @@
 nav button {
-  background-color: rgb(72, 141, 194) !important;
-  border: 2px solid rgb(54, 52, 154) !important;
+  background-color: rgb(103, 182, 231) !important;
+  border: 2px solid rgba(27, 55, 134, 0.975) !important;
   margin: 2px !important;
   color: rgb(255, 255, 255) !important;
 }
@@ -13,6 +13,8 @@ nav #container {
 
 footer {
   font-size: 25px !important;
+  background-color: rgba(27, 55, 134, 0.975) !important;
+  color: rgb(255, 255, 255);
 }
 footer button {
   font-size: 25px !important;
