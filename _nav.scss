@@ -5,6 +5,9 @@ nav {
     margin: $small !important;
     color: $bianco !important;
   }
+  button:hover {
+    transform: scale(1.1) !important;
+  }
   img {
     width: $full;
   }

@@ -4,6 +4,9 @@ nav button {
   margin: 2px !important;
   color: rgb(255, 255, 255) !important;
 }
+nav button:hover {
+  transform: scale(1.1) !important;
+}
 nav img {
   width: 100%;
 }
@@ -18,4 +21,4 @@ footer {
 }
 footer button {
   font-size: 25px !important;
-} /*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
